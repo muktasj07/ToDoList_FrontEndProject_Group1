@@ -100,3 +100,12 @@ ul li span{
 ul li span:hover{
     background: #abbaf8;
 }
+p {
+    margin-top: 20px;
+    font-weight: bold;
+    color: rgb(92, 92, 64);
+  }
+#total-tasks {
+    font-weight: bold;
+    color: rgb(66, 66, 59);
+  }
